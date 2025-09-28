@@ -1,0 +1,13 @@
+{
+  "USE_LOCAL_CTRANSFORMERS": true,
+  "LOCAL_GGUF_PATH": "C:/Users/Sandeep/.lmstudio/models/Mungert/Mistral-7B-Instruct-v0.2-GGUF/Mistral-7B-Instruct-v0.2-q4_k_s.gguf",
+  "LOCAL_MODEL_TYPE": "mistral",
+  "LOCAL_GPU_LAYERS": 0,
+
+  "USE_LOCAL_LLM": false,
+  "OPENAI_BASE_URL": "http://localhost:11434/v1",
+  "OPENAI_MODEL": "llama3.1:latest",
+  "OPENAI_API_KEY": "local",
+
+  "ANTHROPIC_API_KEY": ""
+}

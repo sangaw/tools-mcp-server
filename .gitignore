@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Local config (not for commit)
+config/local_llm.json
+config/*.local.json
+secrets.json
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+**/.pytest_cache/
